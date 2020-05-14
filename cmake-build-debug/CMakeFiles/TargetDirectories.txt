@@ -1,0 +1,3 @@
+C:/Users/jaypa/CLionProjects/2048Game.cpp/cmake-build-debug/CMakeFiles/2048Game_cpp.dir
+C:/Users/jaypa/CLionProjects/2048Game.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jaypa/CLionProjects/2048Game.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

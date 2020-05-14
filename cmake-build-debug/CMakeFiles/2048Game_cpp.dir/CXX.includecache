@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jaypa/CLionProjects/2048Game.cpp/main.cpp
+iostream
+-
+iomanip
+-
+cstdlib
+-
+cmath
+-
+
